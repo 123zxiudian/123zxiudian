@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=d91c25&height=200&section=header&text=Big%20Data%20Analysis%20and%20Decision-Making%20Research%20Laboratory&fontSize=30&animation=fadeIn&fontAlignY=38&desc=Exploring%20AI,%20Empowering%20Decisions&descAlignY=55&descAlign=80"
     width="100%" />
 </div>
+
 ## 🧠 About us
 
 我们是隶属于贵州大学省部共建公共大数据国家重点实验室大数据分析与决策研究室，专注于**人工智能技术的应用与实践**。团队以研究生为主，在指导教师的带领下开展探索性研究与工程实现。

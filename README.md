@@ -7,7 +7,7 @@
 
 我们是隶属于贵州大学省部共建公共大数据国家重点实验室大数据分析与决策研究室，专注于**人工智能技术的应用与实践**。团队以研究生为主，在指导教师的带领下开展探索性研究与工程实现。
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=123zxiudian&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=123zxiudian.123zxiudian&left_color=green&right_color=red)
 
 ### 🔍 研究方向
 - 大语言模型（LLM）的微调、推理优化与本地部署  
